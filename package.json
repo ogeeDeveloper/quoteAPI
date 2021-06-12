@@ -1,0 +1,15 @@
+{
+  "name": "quoteAPI",
+  "version": "1.0.0",
+  "description": "This is a API that randomly generate a quote for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "OgeeDeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "vaxic": "^2.3.7"
+  }
+}
